@@ -3,7 +3,7 @@
 
 # 📌 Requisitos
 - Java JDK 11 o superior (para compatibilidad con var, Optional, y otras características modernas).
-- Conocimientos básicos de línea de comandos.
-- Editor de código o IDE (recomendado: IntelliJ, VSCode o Eclipse).
+
+- Editor de código o IDE (IntelliJ, VSCode o Eclipse).
 
 
