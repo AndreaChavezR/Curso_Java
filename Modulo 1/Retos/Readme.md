@@ -44,6 +44,24 @@ Ejecución:
 Ejecución:
 ### Reto 2: Planeación de temas y recursos educativos colaborativos.
 **Objetivo:** Practicar el uso de Comparable y Comparator para ordenar temas de clase, CopyOnWriteArrayList para la gestionar de forma segura una lista de temas activos, ConcurrentHashMap para mantener un repositorio de recursos compartidos por tema, accesible de forma segura desde distintos usuarios. 
+Ejecución:
+
+# Sesión 07
+### Reto 01: Registro de parámetros de simulación.
+**Objetivo:** Aplicar las clases Path y Files de la API java.nio.file (NOI.2) para crear un archivo de configuración de simulación, vereficar su existencia y leer su contenido. Este ejercicio simula una tarea real del rol de Process Simulation Engineer, donde se documentan los parámetros antes de ejecutar una corrida de simulación. 
+Ejecución:
+### Reto 2: Procesamiento eficiente de logs de errores.
+**Objetivo:** Aplicar el uso de BufferedReader, try-with-resources y manejo de excepciones para analizar grandes archivos de logs generados por pruebas automatizadas. Este reto simula una tarea del rol de Automated Testing Engineer (QA), enfocada en el procesamiento eficiente de información y la trazabilidad de errores.
+Ejecución:
+
+# Sesión 08
+### Reto 01: Motor de lógica narrativa.
+**Objetivo:** Aplicar refactorización y los principios SOLID en un caso práctico relacionada con videojuegos narrativos, separando responsabilidades y utilizando interfaces para lograr un sistema escalable y mantenible. 
+Ejecución:
+### Reto 02: Monitoreo de consumo de recursos en servidores.
+**Objetivo:**  Desarrollar una herramienta en Java que permita leer registros de consumo de CPU por servidor, identifique duplicados, valide entradas numéricas y lance una excepción personalizada si se supera un umbral crítico. Se deben aplicar las buenas prácticas de rendimiento, manejo de errores y excepciones personalizadas.
+Ejecución:
+
 
 
 
