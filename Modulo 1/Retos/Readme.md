@@ -88,6 +88,8 @@
 
 **Ejecución:**
 ![image](https://github.com/user-attachments/assets/9a496cc5-8591-4cb6-950c-684f7157ac2e)
+![image](https://github.com/user-attachments/assets/6cf9ffcd-273b-4026-8dbf-68e34fc4a08a)
+
 
 # Sesión 08
 ### Reto 01: Motor de lógica narrativa.
