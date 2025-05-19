@@ -1,12 +1,15 @@
 # Sesión 01
 ### Reto 01: Registro básico de pacientes
 **Objetivo:** Desarrollar un programa en Java que registre los datos de un paciente, aplicando los fundamentos de clases, objetos, atributos, métodos y la entrada de datos por consola.
-Ejecución:
+
+**Ejecución:**
 ![image](https://github.com/user-attachments/assets/317f878a-aa10-42ac-8234-9c286fe3235b)
 
 ### Reto 02: Registro básico de entradas
 **Objetivo:** Desarrollar un programa en Java que permita registrar la información básica de entradas para eventos, aplicando los fundamentos de clases, objetos, atributos métodos y el uso de constructores. 
-Ejecución:
+
+**Ejecución:**
+![image](https://github.com/user-attachments/assets/25c64026-d141-48c2-9ce2-8715d6ca4e1d)
 
 # Sesión 02
 ### Reto 01: Simulador de farmacia con descuento.
