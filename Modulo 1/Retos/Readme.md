@@ -5,19 +5,19 @@
 **Ejecución:**
 ![image](https://github.com/user-attachments/assets/317f878a-aa10-42ac-8234-9c286fe3235b)
 
-### Reto 02: Registro básico de entradas
+### [Reto 02: Registro básico de entradas](https://github.com/AndreaChavezR/Curso_Java/tree/main/Modulo%201/Retos/Sesion_01_Reto_02)
 **Objetivo:** Desarrollar un programa en Java que permita registrar la información básica de entradas para eventos, aplicando los fundamentos de clases, objetos, atributos métodos y el uso de constructores. 
 
 **Ejecución:**
 ![image](https://github.com/user-attachments/assets/25c64026-d141-48c2-9ce2-8715d6ca4e1d)
 
 # Sesión 02
-### Reto 01: Simulador de farmacia con descuento.
+### [Reto 01: Simulador de farmacia con descuento.](https://github.com/AndreaChavezR/Curso_Java/tree/main/Modulo%201/Retos/Sesion_02_Reto_01)
 **Objetivo:** Desarrollar un programa que calcule el total de una compra en farmacia y aplique un descuento si supera cierta cantidad. Este reto refuerza el uso de operadores aritméticos, asignación, entradas por consola e inferencia de tipo con var.
 
 **Ejecución:**
 ![image](https://github.com/user-attachments/assets/0d110b1b-2e3c-4758-9ce1-e77d2f56bbbd)
-### Reto 02: Cajero automático simple.
+### [Reto 02: Cajero automático simple.](https://github.com/AndreaChavezR/Curso_Java/tree/main/Modulo%201/Retos/Sesion_02_Reto_02)
 **Objetivo:** Implementar un programa que simule un cajero automático básico, aplicando estructuras de control como while, switch, break y continue para navegar entre opciones y validar operaciones del usuario.
 
 **Ejecución:**
