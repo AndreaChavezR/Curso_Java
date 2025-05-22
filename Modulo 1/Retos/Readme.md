@@ -1,5 +1,5 @@
 # Sesión 01
-### Reto 01: Registro básico de pacientes
+### [Reto 01 : Registro básico de pacientes](https://github.com/AndreaChavezR/Curso_Java/tree/main/Modulo%201/Retos/Sesion_01_Reto_01)
 **Objetivo:** Desarrollar un programa en Java que registre los datos de un paciente, aplicando los fundamentos de clases, objetos, atributos, métodos y la entrada de datos por consola.
 
 **Ejecución:**
