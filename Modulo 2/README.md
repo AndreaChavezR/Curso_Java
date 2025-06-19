@@ -41,7 +41,24 @@ Además, deberás procesar las órdenes utilizando métodos flexibles con restri
 ### Ejecución
 ![image](https://github.com/user-attachments/assets/d603a4c8-5cec-40e5-afaf-23cffaa09375)
 
+# Sesión 05
+### Reto 01 : Gestión reactiva de sistemas críticos en Meridian Prime
+**Objetivo:**  Simular el flujo reactivo y no bloqueante para la gestión en tiempo real de los sistemas críticos de Meridian Prime (una ciudad inteligente inspirada en Horizon Zero Dawn), usando Project Reactor y Flux para procesar múltiples flujos concurrentes.
+### Ejecución
+![image](https://github.com/user-attachments/assets/d43454a7-9683-4adc-bd9b-09b0da7f7d8d)
+### Reto 02 : Monitoreo reactivo de signos vitales en una UCI
+**Objetivo:**  Simular un sistema reactivo que monitorea signos vitales de pacientes críticos en tiempo real en una Unidad de Cuidados Intensivos (UCI), aplicando backpressure para controlar el flujo de datos y encadenar operaciones reactivas que filtren eventos anómalos.
+### Ejecución
+![image](https://github.com/user-attachments/assets/64374e25-ce9f-43d0-8f83-0824357b8906)
 
-
+# Sesión 06
+### Reto 01 : Registro de productos para inventario
+**Objetivo:**  Reforzar la creación de entidades con JPA, usando el mismo proyecto del ejemplo anterior para agregar validaciones y consultas específicas en la clase Producto, simulando un sistema de inventario más realista.
+### Ejecución
+![image](https://github.com/user-attachments/assets/40789492-2c62-4981-84d9-c261168f4010)
+### Reto 02 : Productos por marca en una tienda en línea
+**Objetivo:**  Reforzar el uso de relaciones en JPA mediante una entidad nueva llamada Marca, relacionada con Producto, simulando un modelo básico de una tienda en línea. Se trabajará con relaciones @ManyToOne, ideal para representar que varios productos pertenecen a una marca.
+### Ejecución
+![image](https://github.com/user-attachments/assets/8374e42a-3334-45ad-a3ab-5f36baa5d92f)
 
 
