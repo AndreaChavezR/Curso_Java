@@ -31,5 +31,17 @@ Además, deberás procesar las órdenes utilizando métodos flexibles con restri
 ### Ejecución
 ![image](https://github.com/user-attachments/assets/3714e334-a1d6-4c14-a9c5-44c6d25368bb)
 
+# Sesión 04
+### Reto 01 : Simulación asincrónica en una app de movilidad
+**Objetivo:**  Aplicar CompletableFuture para simular procesos asincrónicos en una app de movilidad (tipo Uber o DiDi), realizando tareas en paralelo como calcular la ruta y estimar la tarifa, y enviando una notificación al usuario una vez finalizadas.
+### Ejecución
+![image](https://github.com/user-attachments/assets/d576dcb6-41b8-45a2-8ce7-bee1b176c908)
+### Reto 02 : Gestión asincrónica de vuelos en un aeropuerto internacional
+**Objetivo:**  Simular un flujo asincrónico y no bloqueante para la gestión de aterrizajes en un aeropuerto internacional, integrando varias consultas en paralelo con CompletableFuture, combinando sus resultados y manejando errores potenciales.
+### Ejecución
+![image](https://github.com/user-attachments/assets/d603a4c8-5cec-40e5-afaf-23cffaa09375)
+
+
+
 
 
