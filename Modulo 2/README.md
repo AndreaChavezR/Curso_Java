@@ -21,5 +21,15 @@ Además, deberás procesar las órdenes utilizando métodos flexibles con restri
 ### Ejecución
 ![image](https://github.com/user-attachments/assets/ccd4e613-0819-4530-bc93-8804faca27f4)
 
+# Sesión 03
+### Reto 01 : Confirmación segura de pedidos en una pizzería
+**Objetivo:**  Aplicar Optional y Stream API para filtrar y transformar una lista de pedidos de una pizzería, asegurando el manejo seguro de datos incompletos (como números telefónicos) y generando mensajes personalizados para confirmar los envíos.
+### Ejecución
+![image](https://github.com/user-attachments/assets/68dc891e-b129-469a-984d-9e8f83797d0c)
+### Reto 02 : Cadena funcional para procesamiento de encuestas en una clínica
+**Objetivo:**  Aplicar composición funcional en Java utilizando Stream API y flatMap para procesar listas anidadas (encuestas de distintas sucursales de una clínica), filtrar respuestas específicas y transformar los datos en mensajes útiles para el área de calidad.
+### Ejecución
+![image](https://github.com/user-attachments/assets/3714e334-a1d6-4c14-a9c5-44c6d25368bb)
+
 
 
