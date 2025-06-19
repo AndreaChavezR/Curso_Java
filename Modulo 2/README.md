@@ -10,5 +10,9 @@ Además, deberás procesar las órdenes utilizando métodos flexibles con restri
 ### Ejecución
 ![image](https://github.com/user-attachments/assets/6c603fd7-c776-4c91-9504-dab88816ebda)
 
+# Sesión 02
+### Reto 01 : Simulación concurrente de sistemas en una misión espacial
+**Objetivo:**  Simular el comportamiento paralelo de varios subsistemas críticos durante una misión espacial utilizando programación concurrente con Runnable, Callable, ExecutorService y Future.
+### Ejecución
 
 
